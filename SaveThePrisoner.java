@@ -39,7 +39,7 @@ import java.util.regex.*;
 public class Solution {
 
     // Complete the saveThePrisoner function below.
-    static int saveThePrisoner(int n, int m, int s) {
+    /*static int saveThePrisoner(int n, int m, int s) {
         int candy = m%n;
         for(int i =1; i<candy; i++){
             if(s==n){
@@ -50,6 +50,9 @@ public class Solution {
             }
         }
         return s;
+    }*/
+    static int saveThePrisoner(int n, int m, int s) {
+        return ((s-1+m-1)%n)+1;
     }
 
     private static final Scanner scanner = new Scanner(System.in);
