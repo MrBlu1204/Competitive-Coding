@@ -3,8 +3,6 @@ class Solution {
 
         if(x < 0){
             return false;
-        }else if(x < 10){
-            return true;
         }
 
         long reverse = 0;
