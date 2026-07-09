@@ -9,6 +9,7 @@ Competitive Coding Problem Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,8 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0014-longest-common-prefix/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
