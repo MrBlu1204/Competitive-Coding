@@ -35,6 +35,7 @@ Competitive Coding Problem Solutions
 | [0012-integer-to-roman](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +66,8 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 <!---LeetCode Topics End-->
