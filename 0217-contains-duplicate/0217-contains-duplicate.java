@@ -4,11 +4,8 @@ class Solution {
         Set<Integer> seen = new HashSet<>();
 
         for(int num : nums){
-            if (seen.contains(num)){
+            if (!seen.add(num))
                 return true;
-            }else {
-                seen.add(num);
-            }
         }
 
         return false;
