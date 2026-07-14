@@ -16,7 +16,7 @@ class Solution {
     }
 
     public String frequency(String str){
-        int[] count = new int[26];
+        char[] count = new char[26];
             for(char c : str.toCharArray()){
                 count[c-'a']++;
             }
