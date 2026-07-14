@@ -20,7 +20,7 @@ class Solution {
             for(char c : str.toCharArray()){
                 count[c-'a']++;
             }
-        return Arrays.toString(count);
+        return String.valueOf(count);
     }
 
 }
