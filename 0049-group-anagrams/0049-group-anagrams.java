@@ -4,11 +4,8 @@ class Solution {
         HashMap<String,List<String>> result= new HashMap<>();
 
         for(String str: strs){
-            int[] count = new int[26];
-            for(char c : str.toCharArray()){
-                count[c-'a']++;
-            }
-            String key = Arrays.toString(count);
+           
+            String key = frequency(str);
             result.putIfAbsent(key, new ArrayList<>());
             result.get(key).add(str);
 
@@ -17,4 +14,13 @@ class Solution {
         return new ArrayList<>(result.values());
         
     }
+
+    public String frequency(String str){
+        int[] count = new int[26];
+            for(char c : str.toCharArray()){
+                count[c-'a']++;
+            }
+        return Arrays.toString(count);
+    }
+
 }
