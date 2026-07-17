@@ -14,12 +14,14 @@ Competitive Coding Problem Solutions
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0035-search-insert-position/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
