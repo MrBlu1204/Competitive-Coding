@@ -1,34 +1,34 @@
 class Solution {
     public boolean isValid(String s) {
 
-        if(s.length() % 2 != 0){
+         if(s.length() % 2 != 0){
             return false;
         }
 
-        Stack<Character> stack = new Stack<>();
+        char[] stack = new char[s.length()];
+        int top = -1; 
 
-        for(char ch : s.toCharArray()){
+        for(int i=0; i<s.length(); i++){
+            char c = s.charAt(i);
 
-            if(ch=='(' || ch == '[' || ch == '{'){
-                stack.push(ch);
+            if(c == '(' || c == '{' || c == '['){
+                stack[++top] = c;
             }
             else{
-                if(stack.isEmpty()){
+                if(top == -1){
                     return false;
                 }
-                char top = stack.pop();
 
-                if(ch==')' && top!='(')
-                    return false;
-                if(ch=='}' && top!='{')
-                    return false;
-                if(ch==']' && top != '[')
-                    return false;
+                char open = stack[top--];
+
+                if(c ==')' && open != '(') return false;
+                if(c =='}' && open != '{') return false;
+                if(c ==']' && open != '[') return false;
+
             }
         }
 
-        return stack.isEmpty();
-
+        return top == -1;
 
     }
 }
