@@ -13,6 +13,7 @@ Competitive Coding Problem Solutions
 | [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 ## Binary Search
@@ -31,6 +32,7 @@ Competitive Coding Problem Solutions
 | [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
