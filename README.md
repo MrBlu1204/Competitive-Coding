@@ -39,6 +39,7 @@ Competitive Coding Problem Solutions
 | [0013-roman-to-integer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
@@ -82,4 +83,8 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
