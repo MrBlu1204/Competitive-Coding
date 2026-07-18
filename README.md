@@ -51,6 +51,7 @@ Competitive Coding Problem Solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Competitive Coding Problem Solutions
 | [0012-integer-to-roman](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,12 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
