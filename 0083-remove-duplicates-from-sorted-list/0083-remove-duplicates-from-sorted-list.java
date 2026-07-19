@@ -13,11 +13,11 @@ class Solution {
         if(head==null){
             return head;
         }
-
         ListNode curr = head;
 
         while(curr != null && curr.next != null){
             if(curr.next.val == curr.val){
+                curr.next.val = 0;
                 curr.next = curr.next.next;
             }
             else{
@@ -25,7 +25,6 @@ class Solution {
             }
 
         }
-
         return head;
         
     }
