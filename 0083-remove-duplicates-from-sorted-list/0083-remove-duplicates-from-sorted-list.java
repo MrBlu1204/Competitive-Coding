@@ -15,19 +15,16 @@ class Solution {
         }
 
         ListNode curr = head;
-        ListNode nxt = head.next;
 
-        while(nxt != null){
-            if(nxt.val == curr.val){
-                nxt = nxt.next;
-                continue;
+        while(curr != null && curr.next != null){
+            if(curr.next.val == curr.val){
+                curr.next = curr.next.next;
             }
-            curr.next = nxt;
-            curr = nxt;
-            nxt = nxt.next;
+            else{
+                curr = curr.next;
+            }
 
         }
-        curr.next =null;
 
         return head;
         
