@@ -17,6 +17,7 @@ Competitive Coding Problem Solutions
 | [0035-search-insert-position](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@ Competitive Coding Problem Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Competitive Coding Problem Solutions
 | [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
 ## Backtracking
