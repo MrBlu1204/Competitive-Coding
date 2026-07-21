@@ -19,6 +19,7 @@ Competitive Coding Problem Solutions
 | [0066-plus-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ Competitive Coding Problem Solutions
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +102,7 @@ Competitive Coding Problem Solutions
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,4 +160,20 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0100-same-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0101-symmetric-tree/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
