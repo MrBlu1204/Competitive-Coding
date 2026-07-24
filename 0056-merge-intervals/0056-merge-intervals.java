@@ -3,19 +3,17 @@ class Solution {
 
         Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
 
-        LinkedList<int[]> merged = new LinkedList<>();
-
-        for(int[] interval: intervals){
-
-            if(merged.isEmpty() || interval[0] > merged.getLast()[1]){
-                merged.add(interval);
+        int idx = 0;
+        for(int i=1; i<intervals.length; i++){
+            if(intervals[idx][1] >= intervals[i][0]){
+                intervals[idx][1] = Math.max(intervals[idx][1], intervals[i][1]);
             }
             else{
-                merged.getLast()[1] = Math.max(merged.getLast()[1],interval[1]);
+                idx++;
+                intervals[idx] = intervals[i];
             }
-
         }
-        return merged.toArray(new int[merged.size()][]);
+        return Arrays.copyOf(intervals, idx+1);
         
     }
 }
