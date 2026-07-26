@@ -148,23 +148,27 @@ Competitive Coding Problem Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0101-symmetric-tree/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
