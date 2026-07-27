@@ -22,6 +22,7 @@ Competitive Coding Problem Solutions
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Competitive Coding Problem Solutions
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
