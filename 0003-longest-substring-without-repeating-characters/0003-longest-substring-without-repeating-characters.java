@@ -5,22 +5,21 @@ class Solution {
             return 0;
         }
 
-        char[] str = s.toCharArray();
         int start = 0;
 
         int maxLen = 0;
 
         HashMap<Character, Integer> element = new HashMap<>();
 
-        for(int i = 0; i < str.length; i++){
-            if(element.containsKey(str[i])){
-                start = Math.max(element.get(str[i]) + 1, start);                                        
+        for(int i = 0; i < s.length(); i++){
+            if(element.containsKey(s.charAt(i))){
+                maxLen = Math.max(maxLen, i - start);
+                start = Math.max(element.get(s.charAt(i)) + 1, start);                                                        
             }
-            element.put(str[i], i);
-            maxLen = Math.max(maxLen, i - start + 1);
+            element.put(s.charAt(i), i);    
         }
 
-        return maxLen;
+        return Math.max(maxLen, s.length() - start);
 
 
         
