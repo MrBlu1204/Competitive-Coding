@@ -13,13 +13,13 @@ class Solution {
 
         for(int i = 0; i < s.length(); i++){
             if(element.containsKey(s.charAt(i))){
-                maxLen = Math.max(maxLen, i - start);
-                start = Math.max(element.get(s.charAt(i)) + 1, start);                                                        
+                start = Math.max(element.get(s.charAt(i)) + 1, start);                                        
             }
-            element.put(s.charAt(i), i);    
+            element.put(s.charAt(i), i);
+            maxLen = Math.max(maxLen, i - start + 1);
         }
 
-        return Math.max(maxLen, s.length() - start);
+        return maxLen;
 
 
         
