@@ -56,6 +56,7 @@ Competitive Coding Problem Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0008-string-to-integer-atoi/) | Medium |
@@ -104,6 +105,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
@@ -223,4 +225,8 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0042-trapping-rain-water/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
