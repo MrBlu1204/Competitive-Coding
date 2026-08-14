@@ -2,7 +2,7 @@ class Solution {
     public String minWindow(String s, String t) {
         
 
-        if(s.length() < t.length() || t == null){
+        if(s.length() < t.length() || t == null || s == null){
             return "";
         }
 
