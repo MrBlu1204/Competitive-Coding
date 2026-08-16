@@ -13,19 +13,24 @@ class Solution {
         isPrime[0] = false;
         isPrime[1] = false;
 
+        int i = 2;
 
-        for(int i = 2; i*i < n; i++){
+
+        while(i*i < n){
             if(isPrime[i]){
+                count++;
                 for(int j = i*i; j < n ; j+=i){
                     isPrime[j] = false;
                 }
             }
+            i++;
         }
 
-        for(boolean prime: isPrime){
-            if(prime){
+        while(i<n){
+            if(isPrime[i]){
                 count++;
             }
+            i++;
         }
 
         return count;
