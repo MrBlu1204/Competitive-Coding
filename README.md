@@ -68,6 +68,7 @@ Competitive Coding Problem Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0043-multiply-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
@@ -96,6 +97,7 @@ Competitive Coding Problem Solutions
 | [0009-palindrome-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0069-sqrtx/) | Easy |
@@ -185,6 +187,7 @@ Competitive Coding Problem Solutions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
