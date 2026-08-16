@@ -106,6 +106,7 @@ Competitive Coding Problem Solutions
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1922-count-good-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1922-count-good-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -171,6 +172,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [1922-count-good-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1922-count-good-numbers/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
