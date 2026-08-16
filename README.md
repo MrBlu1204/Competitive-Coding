@@ -77,6 +77,7 @@ Competitive Coding Problem Solutions
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -101,6 +102,7 @@ Competitive Coding Problem Solutions
 | [0168-excel-sheet-column-title](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -263,4 +265,12 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
