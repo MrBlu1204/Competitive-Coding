@@ -27,7 +27,7 @@ class Solution {
             result.append(digit);
         }
 
-        return result.length() == 0 ? "0" : result.toString();
+        return result.toString();
         
     }
 }
