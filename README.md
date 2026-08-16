@@ -22,6 +22,7 @@ Competitive Coding Problem Solutions
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -96,6 +97,7 @@ Competitive Coding Problem Solutions
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0070-climbing-stairs/) | Easy |
+| [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -229,6 +231,7 @@ Competitive Coding Problem Solutions
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -242,4 +245,20 @@ Competitive Coding Problem Solutions
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
