@@ -1,42 +1,46 @@
 class MinStack {
+    class Node {
+        int min;
+        int val;
+        Node next;
 
-    private Deque<Integer> stack;
-    private Deque<Integer> min;
-    
+        public Node(int val, int min) {
+            this.val = val;
+            this.min = min;
+        }
+    }
+
+    Node head;
 
     public MinStack() {
-        stack = new LinkedList<Integer>();
-        min = new LinkedList<Integer>();
-
+        head = null;
     }
-    
-    public void push(int val) {
-        stack.addLast(val);
 
-        if(!min.isEmpty() && min.getLast() < val){
-            min.addLast(min.getLast());
+    public void push(int value) {
+        if (head == null) {
+            head = new Node(value, value);
+        } else {
+            Node curr = new Node(value, Math.min(value, head.min));
+            curr.next = head;
+            head = curr;
         }
-        else{
-            min.addLast(val);
-        }
-        
     }
-    
+
     public void pop() {
-        if(!stack.isEmpty()){
-            stack.removeLast();
-            min.removeLast();
+        if (head != null) {
+            head = head.next;
         }
-        
     }
-    
+
     public int top() {
-        return stack.getLast();
-        
+        if (head == null) {
+            return -1;
+        }
+        return head.val;
     }
-    
+
     public int getMin() {
-            return min.getLast();  
+        return head.min;
     }
 }
 
