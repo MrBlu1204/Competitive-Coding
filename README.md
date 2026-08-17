@@ -29,6 +29,7 @@ Competitive Coding Problem Solutions
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0739-daily-temperatures](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0739-daily-temperatures/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -173,6 +174,7 @@ Competitive Coding Problem Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0739-daily-temperatures/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +262,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0739-daily-temperatures/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
