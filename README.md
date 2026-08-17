@@ -21,6 +21,7 @@ Competitive Coding Problem Solutions
 | [0066-plus-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
@@ -105,6 +106,7 @@ Competitive Coding Problem Solutions
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
@@ -169,6 +171,7 @@ Competitive Coding Problem Solutions
 | [0020-valid-parentheses](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0155-min-stack/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
