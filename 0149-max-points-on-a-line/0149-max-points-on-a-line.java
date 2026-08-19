@@ -13,7 +13,7 @@ class Solution {
             HashMap<String,Integer> slopeFreq = new HashMap<>();
             int localMaxCount = 0;
 
-            for(int j = 0; j < n; j++){
+            for(int j = i + 1; j < n; j++){
                 if(i==j){
                     continue;
                 }
