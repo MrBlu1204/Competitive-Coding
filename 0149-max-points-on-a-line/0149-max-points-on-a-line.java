@@ -31,7 +31,7 @@ class Solution {
                     dy = -dy;
                     dx = -dx;
                 } else if (dx == 0) {
-                    dy = Math.abs(dy);
+                    dy = 1;
                 }
 
                 String slope = dy + "/" + dx;
