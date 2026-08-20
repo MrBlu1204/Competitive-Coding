@@ -26,6 +26,7 @@ Competitive Coding Problem Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -67,6 +68,7 @@ Competitive Coding Problem Solutions
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
@@ -122,6 +124,7 @@ Competitive Coding Problem Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
