@@ -1,17 +1,18 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
 
-       int max = 1001;  //1 <= nums[i] <= 10^3
+        int[] result = new int[2*n];
 
-       for(int i = 0; i < n ; i++){
-        nums[2*i+1] += (nums[n+i]%max)*max;
-        nums[2*i] += (nums[i]%max)*max;
-       }
+        int i = 0, j = 0, k = n;
 
-       for(int i = 0; i<2*n ;i++){
-        nums[i] /=max;
-       }
+        while(j < n){
+            result[i++] = nums[j++];
+            result[i++] = nums[k++];
+        }
+
+
+        return result;
+
         
-        return nums;
     }
 }
