@@ -1,53 +1,32 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
 
-        int rows = matrix.length - 1;
-        int cols = matrix[0].length -1;
+        int rows = matrix.length;
+        int cols = matrix[0].length;
 
-        boolean present = false;
 
-        if(target < matrix[0][0] || target > matrix[rows][cols]){
-            return present;
+        if(target < matrix[0][0] || target > matrix[rows-1][cols-1]){
+            return false;
         }
         
-        int low = 0, high = rows;
+        int low = 0, high = rows*cols - 1;
         
         while(low <= high){
-            int i = low + (high-low)/2;
-
-            if(target > matrix[i][cols]){
-                low = i + 1;
-            }
-            else if(target < matrix[i][0]){
-                high = i - 1;
-            }
-            else{
-                break;
-            }
-        }
-
-        if(!(low<=high)){
-            return present;
-        }
-        int i = low + (high-low)/2;
-
-        low = 0;
-        high = cols;
-
-        while(low <= high){
-            int j = low + (high-low)/2;
+            int mid = low + (high-low)/2;
+            int i = mid / cols;
+            int j = mid % cols;
 
             if(target > matrix[i][j]){
-                low = j + 1;
+                low = mid + 1;
             }
             else if(target < matrix[i][j]){
-                high = j - 1;
+                high = mid - 1;
             }
             else{
                 return true;
             }
         }
 
-        return present;
+       return false;
     }
 }
