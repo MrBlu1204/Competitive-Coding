@@ -45,6 +45,7 @@ Competitive Coding Problem Solutions
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
+| [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ Competitive Coding Problem Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1922-count-good-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1922-count-good-numbers/) | Medium |
+| [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
