@@ -7,11 +7,12 @@ class Solution {
         for(int num : nums){
             if(num == 0){
                 consecutiveZeros++;
+
+                subArrays += consecutiveZeros;
             }else{
                 consecutiveZeros = 0;
             }
 
-            subArrays += consecutiveZeros;
         }
 
         return subArrays;
