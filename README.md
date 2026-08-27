@@ -14,6 +14,7 @@ Competitive Coding Problem Solutions
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
+| [0031-next-permutation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
@@ -74,6 +75,7 @@ Competitive Coding Problem Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0031-next-permutation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
