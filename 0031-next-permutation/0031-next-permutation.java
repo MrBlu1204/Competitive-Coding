@@ -12,7 +12,7 @@ class Solution {
         if(i >=0 ){
 
             int j = n-1;
-            while(j > i && nums[j] <= nums[i]){
+            while(nums[j] <= nums[i]){
                 j--;
             }
 
