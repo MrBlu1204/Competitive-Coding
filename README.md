@@ -16,6 +16,7 @@ Competitive Coding Problem Solutions
 | [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0056-merge-intervals/) | Medium |
@@ -164,6 +165,7 @@ Competitive Coding Problem Solutions
 | [0012-integer-to-roman](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0041-first-missing-positive](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0128-longest-consecutive-sequence/) | Medium |
