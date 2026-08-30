@@ -86,6 +86,7 @@ Competitive Coding Problem Solutions
 | [0283-move-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -111,6 +112,7 @@ Competitive Coding Problem Solutions
 | [0168-excel-sheet-column-title](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0344-reverse-string/) | Easy |
+| [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
@@ -128,6 +130,7 @@ Competitive Coding Problem Solutions
 | [0070-climbing-stairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
