@@ -122,6 +122,7 @@ Competitive Coding Problem Solutions
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -193,6 +194,7 @@ Competitive Coding Problem Solutions
 | [0409-longest-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Trie
@@ -217,6 +219,7 @@ Competitive Coding Problem Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Backtracking
@@ -305,6 +308,7 @@ Competitive Coding Problem Solutions
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
