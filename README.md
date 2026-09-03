@@ -46,6 +46,7 @@ Competitive Coding Problem Solutions
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -60,6 +61,7 @@ Competitive Coding Problem Solutions
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
