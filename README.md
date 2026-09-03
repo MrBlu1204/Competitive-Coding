@@ -81,6 +81,7 @@ Competitive Coding Problem Solutions
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0189-rotate-array/) | Medium |
@@ -184,6 +185,7 @@ Competitive Coding Problem Solutions
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
@@ -241,6 +243,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -372,6 +375,7 @@ Competitive Coding Problem Solutions
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Design
 | Problem Name | Difficulty |
