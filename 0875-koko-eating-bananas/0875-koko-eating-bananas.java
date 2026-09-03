@@ -10,7 +10,7 @@ class Solution {
             long totalTime = 0;
 
             for(int pile : piles){
-                totalTime += Math.ceil((double) pile/speed);
+                totalTime +=(pile + speed - 1)/speed;
             }
 
             if( totalTime <= h){
