@@ -15,6 +15,7 @@ Competitive Coding Problem Solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0042-trapping-rain-water/) | Hard |
@@ -55,6 +56,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0074-search-a-2d-matrix/) | Medium |
