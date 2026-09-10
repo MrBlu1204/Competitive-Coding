@@ -22,6 +22,7 @@ Competitive Coding Problem Solutions
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0066-plus-one/) | Easy |
+| [0068-text-justification](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0068-text-justification/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
@@ -117,6 +118,7 @@ Competitive Coding Problem Solutions
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -275,6 +277,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0043-multiply-strings/) | Medium |
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
+| [0068-text-justification](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0068-text-justification/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
