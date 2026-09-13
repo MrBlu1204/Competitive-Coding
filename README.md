@@ -23,6 +23,7 @@ Competitive Coding Problem Solutions
 | [0056-merge-intervals](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0056-merge-intervals/) | Medium |
 | [0066-plus-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0068-text-justification/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
@@ -197,6 +198,7 @@ Competitive Coding Problem Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
@@ -415,6 +417,7 @@ Competitive Coding Problem Solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0074-search-a-2d-matrix/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
