@@ -35,6 +35,7 @@ Competitive Coding Problem Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
@@ -306,6 +307,7 @@ Competitive Coding Problem Solutions
 | [0100-same-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0200-number-of-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -319,6 +321,7 @@ Competitive Coding Problem Solutions
 | [0100-same-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0200-number-of-islands/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -421,11 +424,13 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0200-number-of-islands/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0200-number-of-islands/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
