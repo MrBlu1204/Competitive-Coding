@@ -43,6 +43,7 @@ Competitive Coding Problem Solutions
 | [0238-product-of-array-except-self](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0312-burst-balloons](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -154,6 +155,7 @@ Competitive Coding Problem Solutions
 | [0070-climbing-stairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
+| [0312-burst-balloons](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
 ## Math
