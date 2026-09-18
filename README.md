@@ -88,6 +88,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -303,6 +304,7 @@ Competitive Coding Problem Solutions
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0191-number-of-1-bits/) | Easy |
 | [0260-single-number-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
