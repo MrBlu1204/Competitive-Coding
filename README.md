@@ -43,6 +43,7 @@ Competitive Coding Problem Solutions
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0260-single-number-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -302,6 +303,7 @@ Competitive Coding Problem Solutions
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0137-single-number-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
