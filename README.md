@@ -30,6 +30,7 @@ Competitive Coding Problem Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -300,6 +301,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0067-add-binary](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
