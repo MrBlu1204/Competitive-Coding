@@ -54,6 +54,7 @@ Competitive Coding Problem Solutions
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0739-daily-temperatures/) | Medium |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
@@ -227,6 +228,7 @@ Competitive Coding Problem Solutions
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
+| [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -251,6 +253,7 @@ Competitive Coding Problem Solutions
 | [0414-third-maximum-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0414-third-maximum-number/) | Easy |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -299,6 +302,7 @@ Competitive Coding Problem Solutions
 | [0136-single-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
