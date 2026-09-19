@@ -311,6 +311,7 @@ Competitive Coding Problem Solutions
 | [0260-single-number-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0461-hamming-distance](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
