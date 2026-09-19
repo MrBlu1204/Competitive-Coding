@@ -184,6 +184,7 @@ Competitive Coding Problem Solutions
 | [0172-factorial-trailing-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0204-count-primes/) | Medium |
+| [0231-power-of-two](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
@@ -292,6 +293,7 @@ Competitive Coding Problem Solutions
 | [0021-merge-two-sorted-lists](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0231-power-of-two/) | Easy |
 | [1922-count-good-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1922-count-good-numbers/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -305,6 +307,7 @@ Competitive Coding Problem Solutions
 | [0136-single-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
