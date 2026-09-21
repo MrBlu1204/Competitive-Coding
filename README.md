@@ -224,6 +224,7 @@ Competitive Coding Problem Solutions
 | [0073-set-matrix-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
@@ -293,6 +294,7 @@ Competitive Coding Problem Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0206-reverse-linked-list/) | Easy |
