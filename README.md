@@ -174,6 +174,7 @@ Competitive Coding Problem Solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0012-integer-to-roman/) | Medium |
@@ -293,6 +294,7 @@ Competitive Coding Problem Solutions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -303,6 +305,7 @@ Competitive Coding Problem Solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0206-reverse-linked-list/) | Easy |
