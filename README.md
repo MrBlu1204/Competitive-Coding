@@ -147,6 +147,7 @@ Competitive Coding Problem Solutions
 | [0125-valid-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0205-isomorphic-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0383-ransom-note/) | Easy |
@@ -236,6 +237,7 @@ Competitive Coding Problem Solutions
 | [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0149-max-points-on-a-line](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0229-majority-element-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0229-majority-element-ii/) | Medium |
