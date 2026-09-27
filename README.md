@@ -149,6 +149,7 @@ Competitive Coding Problem Solutions
 | [0168-excel-sheet-column-title](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0205-isomorphic-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0290-word-pattern/) | Easy |
 | [0344-reverse-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -244,6 +245,7 @@ Competitive Coding Problem Solutions
 | [0242-valid-anagram](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0242-valid-anagram/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
+| [0290-word-pattern](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0383-ransom-note/) | Easy |
