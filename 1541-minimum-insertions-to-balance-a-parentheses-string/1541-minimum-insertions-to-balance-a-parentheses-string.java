@@ -1,29 +1,25 @@
 class Solution {
     public int minInsertions(String s) {
-        Deque<Character> stack = new LinkedList<>();
-
-        int result = 0;
-
-        for(int i = 0; i < s.length() ; i++){
-            if(s.charAt(i) == '('){
-                stack.push('(');
+        int open=0;
+        int ans=0;
+        for(int i=0;i<s.length();i++){
+            if(s.charAt(i)=='('){
+                open++;
             }else{
-                if(i < s.length()-1 && s.charAt(i+1) == ')'){
+                if(i+1<s.length() &&  s.charAt(i+1)==')'){
                     i++;
+                }else{
+                    ans++;
                 }
-                else{
-                    result++;
-                }
-
-                if(!stack.isEmpty()){
-                    stack.pop();
-                }
-                else{
-                    result++;
-                }
+            
+            if(open>0){
+                open--;
+            }else{
+                ans++;
             }
         }
-
-        return result + (int) stack.size()*2;
+        }
+        ans+=2 * open;
+        return ans;
     }
 }
