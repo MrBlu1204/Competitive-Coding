@@ -156,6 +156,7 @@ Competitive Coding Problem Solutions
 | [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0796-rotate-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0796-rotate-string/) | Easy |
@@ -255,6 +256,7 @@ Competitive Coding Problem Solutions
 | [0409-longest-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
@@ -484,6 +486,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0155-min-stack/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -541,4 +544,8 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->
