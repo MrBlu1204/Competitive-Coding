@@ -214,6 +214,7 @@ Competitive Coding Problem Solutions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +226,7 @@ Competitive Coding Problem Solutions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
