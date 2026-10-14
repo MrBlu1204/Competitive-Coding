@@ -12,18 +12,20 @@ class Solution {
 
         for(int i = 0; i < q; i++){
             result.append('9');
-            num--;
         }
 
         if(r>0){
             result.append((char) ('0' + r));
-            num--;
         }
 
-        while(num>0){
+        int zeros =  num - result.length();
+
+        while(zeros>0){
             result.append('0');
-            num--;
+            zeros--;
         }
+
+
 
         return result.toString();
         
