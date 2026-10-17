@@ -62,6 +62,7 @@ Competitive Coding Problem Solutions
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0739-daily-temperatures/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -88,6 +89,7 @@ Competitive Coding Problem Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
@@ -162,6 +164,7 @@ Competitive Coding Problem Solutions
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0796-rotate-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0796-rotate-string/) | Easy |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -184,6 +187,7 @@ Competitive Coding Problem Solutions
 | [0312-burst-balloons](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +272,7 @@ Competitive Coding Problem Solutions
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -279,6 +284,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0014-longest-common-prefix/) | Easy |
+| [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +305,7 @@ Competitive Coding Problem Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
+| [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
