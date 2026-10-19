@@ -66,6 +66,7 @@ Competitive Coding Problem Solutions
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
@@ -128,6 +129,7 @@ Competitive Coding Problem Solutions
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -313,6 +315,7 @@ Competitive Coding Problem Solutions
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
