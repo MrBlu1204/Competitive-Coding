@@ -130,6 +130,7 @@ Competitive Coding Problem Solutions
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@ Competitive Coding Problem Solutions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
