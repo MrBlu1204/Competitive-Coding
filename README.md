@@ -12,6 +12,7 @@ Competitive Coding Problem Solutions
 | [0014-longest-common-prefix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0031-next-permutation/) | Medium |
@@ -107,6 +108,7 @@ Competitive Coding Problem Solutions
 | [0011-container-with-most-water](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0027-remove-element/) | Easy |
@@ -300,6 +302,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0015-3sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0088-merge-sorted-array/) | Easy |
