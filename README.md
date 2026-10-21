@@ -73,6 +73,7 @@ Competitive Coding Problem Solutions
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
@@ -483,6 +484,7 @@ Competitive Coding Problem Solutions
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -577,6 +579,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -593,4 +596,8 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 <!---LeetCode Topics End-->
