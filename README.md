@@ -132,6 +132,7 @@ Competitive Coding Problem Solutions
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0696-count-binary-substrings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0696-count-binary-substrings/) | Easy |
 | [0844-backspace-string-compare](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0844-backspace-string-compare/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -170,6 +171,7 @@ Competitive Coding Problem Solutions
 | [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0696-count-binary-substrings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0696-count-binary-substrings/) | Easy |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0796-rotate-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0796-rotate-string/) | Easy |
