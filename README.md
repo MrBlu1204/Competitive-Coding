@@ -129,6 +129,7 @@ Competitive Coding Problem Solutions
 | [0344-reverse-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0344-reverse-string/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -168,6 +169,7 @@ Competitive Coding Problem Solutions
 | [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
 | [0409-longest-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0443-string-compression](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0443-string-compression/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
