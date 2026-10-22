@@ -616,4 +616,8 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0881-boats-to-save-people/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
