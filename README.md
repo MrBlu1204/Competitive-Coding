@@ -76,6 +76,7 @@ Competitive Coding Problem Solutions
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
@@ -302,6 +303,7 @@ Competitive Coding Problem Solutions
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -502,6 +504,7 @@ Competitive Coding Problem Solutions
 | [0643-maximum-average-subarray-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
