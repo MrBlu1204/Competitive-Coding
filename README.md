@@ -69,6 +69,7 @@ Competitive Coding Problem Solutions
 | [0853-car-fleet](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -300,6 +301,7 @@ Competitive Coding Problem Solutions
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -507,6 +509,7 @@ Competitive Coding Problem Solutions
 | [0438-find-all-anagrams-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
