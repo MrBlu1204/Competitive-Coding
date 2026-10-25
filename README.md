@@ -63,6 +63,7 @@ Competitive Coding Problem Solutions
 | [0643-maximum-average-subarray-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
@@ -98,6 +99,7 @@ Competitive Coding Problem Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -485,6 +487,7 @@ Competitive Coding Problem Solutions
 | [0209-minimum-size-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -511,6 +514,7 @@ Competitive Coding Problem Solutions
 | [0438-find-all-anagrams-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
