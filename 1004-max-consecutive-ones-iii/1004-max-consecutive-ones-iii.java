@@ -1,8 +1,6 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
 
-        int maxOnes = 0;
-
         int flips = 0;
         int left = 0;
         for(int right = 0; right< nums.length; right++){
@@ -11,18 +9,17 @@ class Solution {
                 flips++;
             }
 
-            while(flips> k){
+            if(flips> k){
                 if(nums[left]==0){
                     flips--;
                 }
                 left++;
             }
 
-            maxOnes = Math.max(maxOnes, right-left+1);
 
         }
 
-        return maxOnes;
+        return nums.length - left;
         
     }
 }
