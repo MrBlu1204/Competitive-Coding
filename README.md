@@ -73,6 +73,7 @@ Competitive Coding Problem Solutions
 | [0977-squares-of-a-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -486,6 +487,7 @@ Competitive Coding Problem Solutions
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -512,6 +514,7 @@ Competitive Coding Problem Solutions
 | [0904-fruit-into-baskets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
