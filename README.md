@@ -63,6 +63,7 @@ Competitive Coding Problem Solutions
 | [0643-maximum-average-subarray-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
+| [0706-design-hashmap](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0739-daily-temperatures/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -304,6 +305,7 @@ Competitive Coding Problem Solutions
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
+| [0706-design-hashmap](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -383,6 +385,7 @@ Competitive Coding Problem Solutions
 | [0141-linked-list-cycle](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0206-reverse-linked-list/) | Easy |
+| [0706-design-hashmap](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0706-design-hashmap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -566,6 +569,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0155-min-stack](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0155-min-stack/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0706-design-hashmap](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0706-design-hashmap/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -628,6 +632,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0706-design-hashmap](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0706-design-hashmap/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
