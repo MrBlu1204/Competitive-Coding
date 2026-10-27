@@ -80,6 +80,7 @@ Competitive Coding Problem Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -105,6 +106,7 @@ Competitive Coding Problem Solutions
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@ Competitive Coding Problem Solutions
 | [0881-boats-to-save-people](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0881-boats-to-save-people/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -356,6 +359,7 @@ Competitive Coding Problem Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -501,6 +505,7 @@ Competitive Coding Problem Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -530,6 +535,7 @@ Competitive Coding Problem Solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
