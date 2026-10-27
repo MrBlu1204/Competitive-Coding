@@ -62,6 +62,7 @@ Competitive Coding Problem Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0706-design-hashmap/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -258,6 +259,7 @@ Competitive Coding Problem Solutions
 | [0334-increasing-triplet-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0409-longest-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0409-longest-palindrome/) | Easy |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0881-boats-to-save-people/) | Medium |
@@ -305,6 +307,7 @@ Competitive Coding Problem Solutions
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0645-set-mismatch/) | Easy |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0706-design-hashmap](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -462,6 +465,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0659-split-array-into-consecutive-subsequences/) | Medium |
 | [0767-reorganize-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0767-reorganize-string/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Bucket Sort
