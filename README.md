@@ -114,6 +114,7 @@ Competitive Coding Problem Solutions
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +182,7 @@ Competitive Coding Problem Solutions
 | [0383-ransom-note](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -302,6 +304,7 @@ Competitive Coding Problem Solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0409-longest-palindrome](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -525,6 +528,7 @@ Competitive Coding Problem Solutions
 | [0076-minimum-window-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0567-permutation-in-string/) | Medium |
