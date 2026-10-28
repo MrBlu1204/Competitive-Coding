@@ -1,34 +1,58 @@
 class Solution {
     public int longestSubstring(String s, int k) {
-        return helper(s, 0, s.length(), k);
-        
-    }
+        int n = s.length();
+        int maxLen = 0;
 
-    private int helper(String s, int start, int end, int k){
-        if(end - start < k){
-            return 0;
+        int maxUnique = 0;
+
+        boolean[] seen = new boolean[26];
+
+        for(char c: s.toCharArray()){
+            if(!seen[c - 'a']){
+                seen[c - 'a'] = true;
+                maxUnique++;
+            }
         }
 
-        int[] freq = new int[26];
-        for(int i = start; i < end; i++){
-            freq[s.charAt(i) - 'a']++;
-        }
 
-        for(int mid = start; mid< end; mid++){
-            if(freq[s.charAt(mid) -'a'] <k){
-                int next = mid + 1;
-                while(next < end && freq[s.charAt(next) - 'a'] < k){
-                    next++;
+        for(int i = 1; i <= maxUnique; i++){
+            int[] freq = new int[26];
+            int left = 0;
+            int unique = 0;
+            int atLeastK = 0;
+
+
+            for(int right = 0; right < n; right++){
+                int rIdx = s.charAt(right) - 'a';
+                if(freq[rIdx] == 0){
+                    unique++;
+                }
+                freq[rIdx]++;
+
+                if(freq[rIdx] ==k){
+                    atLeastK++;
                 }
 
-                int left = helper(s, start, mid, k);
-                int right = helper(s, next, end, k);
-                return Math.max(left, right);
-            }
+                while(unique > i){
+                    int lIdx = s.charAt(left) - 'a';
+                    if(freq[lIdx] == k){
+                        atLeastK--;
+                    }
+                    freq[lIdx]--;
 
+                    if(freq[lIdx] == 0){
+                        unique--;
+                    }
+
+                    left++;
+                }
+
+                if(unique == i && atLeastK == i){
+                    maxLen = Math.max(maxLen, right - left + 1);
+                }
+            }
         }
 
-        return end - start;
-
+        return maxLen;
     }
 }
