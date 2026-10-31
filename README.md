@@ -85,6 +85,7 @@ Competitive Coding Problem Solutions
 | [1480-running-sum-of-1d-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1854-maximum-population-year](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1854-maximum-population-year/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -497,6 +498,7 @@ Competitive Coding Problem Solutions
 | [1189-maximum-number-of-balloons](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1854-maximum-population-year](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1854-maximum-population-year/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Quickselect
@@ -518,6 +520,7 @@ Competitive Coding Problem Solutions
 | [1480-running-sum-of-1d-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+| [1854-maximum-population-year](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1854-maximum-population-year/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
