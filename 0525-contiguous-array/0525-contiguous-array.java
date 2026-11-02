@@ -1,7 +1,6 @@
 class Solution {
     public int findMaxLength(int[] nums) {
 
-        int n = nums.length;
         int prefixSum = 0;
         
         Map<Integer, Integer> sum = new HashMap<>();
@@ -9,7 +8,7 @@ class Solution {
 
         int maxLen = 0;
 
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < nums.length; i++){
 
             prefixSum += (nums[i] == 0) ? -1 : 1;
 
