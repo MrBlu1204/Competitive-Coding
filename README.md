@@ -50,6 +50,7 @@ Competitive Coding Problem Solutions
 | [0283-move-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0312-burst-balloons](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0334-increasing-triplet-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -518,6 +519,7 @@ Competitive Coding Problem Solutions
 | [0209-minimum-size-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -607,6 +609,7 @@ Competitive Coding Problem Solutions
 | ------- | ------- |
 | [0155-min-stack](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0706-design-hashmap](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0706-design-hashmap/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
@@ -629,6 +632,7 @@ Competitive Coding Problem Solutions
 | [0073-set-matrix-zeroes](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0200-number-of-islands/) | Medium |
+| [0304-range-sum-query-2d-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
