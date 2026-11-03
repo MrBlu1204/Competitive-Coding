@@ -93,6 +93,7 @@ Competitive Coding Problem Solutions
 | [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2444-count-subarrays-with-fixed-bounds/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2536-increment-submatrices-by-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2536-increment-submatrices-by-one/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MrBlu1204/Competitive-Coding/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Binary Search
@@ -533,6 +534,7 @@ Competitive Coding Problem Solutions
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1854-maximum-population-year](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1854-maximum-population-year/) | Easy |
+| [2536-increment-submatrices-by-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2536-increment-submatrices-by-one/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -634,6 +636,7 @@ Competitive Coding Problem Solutions
 | [0200-number-of-islands](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0200-number-of-islands/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [2536-increment-submatrices-by-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2536-increment-submatrices-by-one/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
