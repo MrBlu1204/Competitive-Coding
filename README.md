@@ -83,6 +83,7 @@ Competitive Coding Problem Solutions
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1314-matrix-block-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1314-matrix-block-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
@@ -529,6 +530,7 @@ Competitive Coding Problem Solutions
 | [0974-subarray-sums-divisible-by-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1314-matrix-block-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1314-matrix-block-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
@@ -636,6 +638,7 @@ Competitive Coding Problem Solutions
 | [0200-number-of-islands](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0200-number-of-islands/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [1314-matrix-block-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1314-matrix-block-sum/) | Medium |
 | [2536-increment-submatrices-by-one](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2536-increment-submatrices-by-one/) | Medium |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
