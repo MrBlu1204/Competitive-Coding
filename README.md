@@ -35,6 +35,7 @@ Competitive Coding Problem Solutions
 | [0137-single-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0137-single-number-ii/) | Medium |
 | [0149-max-points-on-a-line](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0149-max-points-on-a-line/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0169-majority-element/) | Easy |
@@ -233,6 +234,7 @@ Competitive Coding Problem Solutions
 | [0053-maximum-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0152-maximum-product-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
 | [0312-burst-balloons](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0312-burst-balloons/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
