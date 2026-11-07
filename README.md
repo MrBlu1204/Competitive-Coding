@@ -83,6 +83,7 @@ Competitive Coding Problem Solutions
 | [0918-maximum-sum-circular-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0978-longest-turbulent-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1014-best-sightseeing-pair/) | Medium |
@@ -241,6 +242,7 @@ Competitive Coding Problem Solutions
 | [0392-is-subsequence](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0392-is-subsequence/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## Math
@@ -573,6 +575,7 @@ Competitive Coding Problem Solutions
 | [0643-maximum-average-subarray-i](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0978-longest-turbulent-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
