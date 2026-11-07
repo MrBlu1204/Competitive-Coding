@@ -95,6 +95,7 @@ Competitive Coding Problem Solutions
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1854-maximum-population-year](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1854-maximum-population-year/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
@@ -247,6 +248,7 @@ Competitive Coding Problem Solutions
 | [1014-best-sightseeing-pair](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
