@@ -87,6 +87,7 @@ Competitive Coding Problem Solutions
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1314-matrix-block-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -244,6 +245,7 @@ Competitive Coding Problem Solutions
 | [0918-maximum-sum-circular-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0978-longest-turbulent-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1525-number-of-good-ways-to-split-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
