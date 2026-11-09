@@ -119,6 +119,7 @@ Competitive Coding Problem Solutions
 | [0278-first-bad-version](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0367-valid-perfect-square](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0367-valid-perfect-square/) | Easy |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -273,6 +274,7 @@ Competitive Coding Problem Solutions
 | [0263-ugly-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0367-valid-perfect-square/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
