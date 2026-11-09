@@ -116,6 +116,7 @@ Competitive Coding Problem Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
@@ -668,6 +669,7 @@ Competitive Coding Problem Solutions
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0278-first-bad-version/) | Easy |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
