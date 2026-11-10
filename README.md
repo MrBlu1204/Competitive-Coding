@@ -120,6 +120,7 @@ Competitive Coding Problem Solutions
 | [0287-find-the-duplicate-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0367-valid-perfect-square](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0367-valid-perfect-square/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -672,6 +673,7 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
