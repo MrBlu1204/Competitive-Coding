@@ -90,6 +90,7 @@ Competitive Coding Problem Solutions
 | [0978-longest-turbulent-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0978-longest-turbulent-subarray/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1014-best-sightseeing-pair/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -136,6 +137,7 @@ Competitive Coding Problem Solutions
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Divide and Conquer
