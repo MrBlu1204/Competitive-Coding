@@ -91,6 +91,7 @@ Competitive Coding Problem Solutions
 | [0992-subarrays-with-k-different-integers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1014-best-sightseeing-pair](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1014-best-sightseeing-pair/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1314-matrix-block-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1314-matrix-block-sum/) | Medium |
@@ -135,6 +136,7 @@ Competitive Coding Problem Solutions
 | [0792-number-of-matching-subsequences](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -683,6 +685,7 @@ Competitive Coding Problem Solutions
 | [0278-first-bad-version](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
+| [1095-find-in-mountain-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -735,4 +738,8 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
