@@ -100,6 +100,7 @@ Competitive Coding Problem Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -139,6 +140,7 @@ Competitive Coding Problem Solutions
 | [1004-max-consecutive-ones-iii](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
