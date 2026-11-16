@@ -14,22 +14,8 @@ class Solution {
         while(left <= right){
 
             int mid = left + (right - left)/2;
-            int currSum = 0;
-            int count = 1;
 
-            for(int num : nums){
-                currSum += num;
-                if(currSum > mid){
-                    count++;
-                    currSum = num;
-                }
-
-                if(count > k){
-                    break;
-                }
-            }
-
-            if(count <= k){
+            if(canSplit(nums, k, mid)){
                 result = mid;
                 right = mid - 1;
             }else{
@@ -41,4 +27,21 @@ class Solution {
         return result;
         
     }
+
+
+    private boolean canSplit(int[] nums, int k, long maxSum) {
+    int subarrays = 1;
+    long currentSum = 0;
+
+    for (int num : nums) {
+        currentSum += num;
+        if (currentSum > maxSum) {
+            subarrays++;
+            currentSum = num;
+            if (subarrays > k) return false;
+        }
+    }
+
+    return true;
+}
 }
