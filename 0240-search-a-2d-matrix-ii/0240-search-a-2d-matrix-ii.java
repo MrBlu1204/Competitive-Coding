@@ -10,9 +10,7 @@ class Solution {
         while( i < m && j >= 0 ){
             if(matrix[i][j] == target){
                 return true;
-            }
-
-            if(matrix[i][j] < target){
+            }else if(matrix[i][j] < target){
                 i++;
             }else {
                 j--;
