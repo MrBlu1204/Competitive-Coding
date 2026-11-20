@@ -68,6 +68,7 @@ Competitive Coding Problem Solutions
 | [0485-max-consecutive-ones](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0525-contiguous-array/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -136,6 +137,7 @@ Competitive Coding Problem Solutions
 | [0367-valid-perfect-square](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0528-random-pick-with-weight](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0611-valid-triangle-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -299,6 +301,7 @@ Competitive Coding Problem Solutions
 | [0268-missing-number](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0367-valid-perfect-square/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0523-continuous-subarray-sum/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0843-guess-the-word](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0843-guess-the-word/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -569,6 +572,7 @@ Competitive Coding Problem Solutions
 | [0410-split-array-largest-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0523-continuous-subarray-sum](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0525-contiguous-array/) | Medium |
+| [0528-random-pick-with-weight](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0528-random-pick-with-weight/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0724-find-pivot-index/) | Easy |
@@ -758,4 +762,8 @@ Competitive Coding Problem Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/MrBlu1204/Competitive-Coding/tree/main/1095-find-in-mountain-array/) | Hard |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0528-random-pick-with-weight](https://github.com/MrBlu1204/Competitive-Coding/tree/main/0528-random-pick-with-weight/) | Medium |
 <!---LeetCode Topics End-->
